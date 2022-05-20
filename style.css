@@ -1,0 +1,141 @@
+html{
+    background-color: #1D2228;
+    
+    
+}
+
+header{
+    text-align: center;
+    background-color: #053C5E;
+    color: #E1E2E2;
+    padding: 10px;
+}
+
+.flexcontainer{
+    display: flex;
+    
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+ .container1 p{
+   
+    font-size: 1.62vw;
+}
+a {
+    text-align: center;
+    color:white;
+  }
+.container2 p{
+   
+    
+  
+ 
+    font-size: 1.62vw;
+        
+}
+.container3 p{
+    
+    
+ 
+    font-size: 1.62vw;
+    
+}
+
+.head{
+    background-color: rgb(26, 41, 48);
+    
+    padding:  3.056234718826406vh;
+    text-align: center;
+}
+
+
+
+.container{
+   text-align: center;
+    background-color: white;
+    background-color: rgb(26, 41, 48) ;
+    color: rgb(10, 22, 18);
+ 
+    font-size: 1.62vw;
+    
+
+
+}
+
+.photo{
+    
+    opacity: 50%;
+    
+}
+
+
+
+
+.mana{
+    
+    color: white;
+    
+    text-align: center;
+    padding: 20px;
+    
+ 
+    
+}
+
+
+
+
+
+
+.pro{
+    
+    
+    color: white;
+    
+    text-align: center;
+    
+    width: 100%;
+    
+}
+
+.foot{
+  
+    text-align: center;
+    margin-top: 5%;
+    
+    background-color: #053C5E;
+    
+    
+
+}
+
+.pro{
+    display: grid;
+    flex-flow:row;
+    
+    
+}
+
+.AM{
+    background-color:#E1E2E2;
+    color: black;
+    padding: 100px;
+    font-size: 20px;
+
+}
+
+#HAM{
+    text-align: center;
+}
+
+.tic{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 1.5%;
+    
+}
+
+
+
